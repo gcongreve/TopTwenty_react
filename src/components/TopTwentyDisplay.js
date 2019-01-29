@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import TopTwentySong from './TopTwentySong.js'
 
 
-
 class TopTwentyDisplay extends Component {
 
   render() {

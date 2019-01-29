@@ -21,6 +21,10 @@ body {
   border: 1px dotted antiquewhite;
 }
 
+h1{
+  width: 100%;
+  text-align: center;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
